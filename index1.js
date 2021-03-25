@@ -1,7 +1,7 @@
 // console.log('Hello World!')
 
 // const, let dan var
-const nama = 'Aryaputrajaya'
+const nama = 'Bryan'
 const nilai = 8
 let hasil = ''
 

@@ -5,13 +5,13 @@
 
 const DataMahasiswa = [
 {
-    nama : 'Aryaputrajaya',
-    npm : '19421007',
+    nama : 'Bryan',
+    npm : '19421038',
     prodi : 'Informatika'
 },
 {
-    nama : 'arya',
-    npm : '4444444',
+    nama : 'savin',
+    npm : '19421008',
     prodi : 'informatika'
 
 }   
